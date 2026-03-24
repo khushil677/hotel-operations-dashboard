@@ -39,7 +39,8 @@ The goal of this project was to simulate a real-world hospitality analytics scen
 - Provided insights to support better operational and financial planning
 
 ## Screenshots
-
+. ![Overview](images/Executive.png)
+. ![Revenue Trends](images/Trends.png)
 
 ## How to Use
 1. Download the `.pbix` file from the dashboard folder
